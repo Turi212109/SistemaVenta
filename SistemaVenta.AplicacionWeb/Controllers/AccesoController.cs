@@ -8,7 +8,7 @@ using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
 
-
+//Este es un comentario para probar el pipeline
 
 namespace SistemaVenta.AplicacionWeb.Controllers
 {
